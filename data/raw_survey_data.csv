@@ -1,0 +1,501 @@
+Response_ID,Timestamp,Age,Gender,Region,Education_Level,Satisfaction_Score,NPS_Score,Primary_Device,Usage_Frequency,Most_Used_Feature,Feedback_Text
+RES_0001,2026-04-13 03:50:08.407799,43.0,Male,Latin America,High School,4.0,2,Smart Watch,Weekly,Pricing,Decent features for the price.
+RES_0002,2026-03-22 08:50:08.407799,74.0,Male,ME-Africa,High School,4.0,7,Tablet,Weekly,Pricing,Solid performance.
+RES_0003,2026-04-09 15:50:08.407799,64.0,Male,Asia-Pacific,Bachelor,5.0,8,Smart Watch,Monthly,User Interface,Best app I've used this year.
+RES_0004,2026-03-22 02:50:08.407799,74.0,Female,Europe,PhD,2.0,2,Tablet,Monthly,Pricing,Slow performance at times.
+RES_0005,2026-04-13 04:50:08.407799,,Female,Asia-Pacific,PhD,4.0,2,Desktop,Rarely,User Interface,Solid performance.
+RES_0006,2026-03-28 12:50:08.407799,64.0,Female,Europe,High School,3.0,1,Smart Watch,Monthly,Feature Set,Needs more updates.
+RES_0007,2026-04-08 23:50:08.408532,73.0,Male,ME-Africa,High School,3.0,7,Desktop,Monthly,Feature Set,"It's okay, does what it needs to do."
+RES_0008,2026-03-30 19:50:08.408532,47.0,Female,Europe,Bachelor,3.0,9,Mobile,Daily,Feature Set,Needs more updates.
+RES_0009,2026-04-11 23:50:08.408532,60.0,Male,Latin America,Bachelor,5.0,0,Tablet,Rarely,Customer Support,"Love the interface, very intuitive!"
+RES_0010,2026-04-17 01:50:08.408532,65.0,Male,North America,Bachelor,5.0,7,Smart Watch,Weekly,Feature Set,Exceeded my expectations.
+RES_0011,2026-03-30 21:50:08.408532,34.0,Female,North America,PhD,3.0,6,Desktop,Monthly,Pricing,Average experience.
+RES_0012,2026-03-27 11:50:08.408532,43.0,Male,ME-Africa,PhD,,6,Tablet,Weekly,Performance,Customer support was unhelpful.
+RES_0013,2026-03-21 17:50:08.408532,53.0,Male,Latin America,PhD,4.0,2,Tablet,Weekly,User Interface,Good experience overall.
+RES_0014,2026-04-18 02:50:08.408532,18.0,Male,Asia-Pacific,High School,4.0,0,Mobile,Daily,Customer Support,Solid performance.
+RES_0015,2026-04-19 11:50:08.408532,25.0,Male,Latin America,PhD,2.0,3,Mobile,Monthly,Feature Set,A bit frustrated with the glitches.
+RES_0016,2026-03-25 01:50:08.408532,66.0,Male,North America,Master,4.0,8,Tablet,Rarely,Feature Set,Good experience overall.
+RES_0017,2026-03-22 11:50:08.408532,52.0,Female,North America,Master,4.0,4,Tablet,Monthly,Performance,Good experience overall.
+RES_0018,2026-03-26 06:50:08.408532,69.0,Male,Latin America,Bachelor,5.0,0,Smart Watch,Weekly,Performance,Exceeded my expectations.
+RES_0019,2026-03-24 13:50:08.408532,32.0,Female,Latin America,PhD,3.0,4,Tablet,Rarely,Customer Support,Average experience.
+RES_0020,2026-03-23 07:50:08.408532,64.0,Female,North America,Master,4.0,7,Smart Watch,Monthly,User Interface,Works well but interface could be cleaner.
+RES_0021,2026-04-05 08:50:08.408532,73.0,Male,Asia-Pacific,Bachelor,4.0,7,Tablet,Weekly,Feature Set,Works well but interface could be cleaner.
+RES_0022,2026-03-21 04:50:08.408909,39.0,Male,ME-Africa,PhD,5.0,4,Mobile,Weekly,Customer Support,"Love the interface, very intuitive!"
+RES_0023,2026-04-08 00:50:08.408909,31.0,Male,ME-Africa,High School,4.0,8,Smart Watch,Daily,Pricing,Solid performance.
+RES_0024,2026-03-31 20:50:08.408909,,Female,Latin America,Master,4.0,0,Desktop,Daily,Pricing,Good experience overall.
+RES_0025,2026-04-15 04:50:08.408909,45.0,Male,ME-Africa,High School,3.0,3,Mobile,Daily,Customer Support,Average experience.
+RES_0026,2026-04-13 02:50:08.408909,40.0,Female,North America,PhD,5.0,2,Smart Watch,Weekly,Feature Set,Best app I've used this year.
+RES_0027,2026-04-11 16:50:08.408909,31.0,Male,North America,Master,4.0,1,Smart Watch,Monthly,Customer Support,Solid performance.
+RES_0028,2026-04-02 19:50:08.408909,41.0,Female,Latin America,PhD,2.0,7,Desktop,Daily,Feature Set,A bit frustrated with the glitches.
+RES_0029,2026-03-26 09:50:08.408909,19.0,Male,Latin America,High School,4.0,6,Smart Watch,Monthly,Performance,Decent features for the price.
+RES_0030,2026-04-02 14:50:08.408909,62.0,Male,Latin America,Master,3.0,8,Tablet,Daily,Customer Support,Needs more updates.
+RES_0031,2026-03-25 02:50:08.408909,43.0,Non-Binary,Asia-Pacific,High School,2.0,1,Desktop,Rarely,Feature Set,Interface is confusing.
+RES_0032,2026-04-18 03:50:08.408909,31.0,Female,ME-Africa,PhD,5.0,3,Mobile,Rarely,Customer Support,Exceeded my expectations.
+RES_0033,2026-03-23 08:50:08.408909,73.0,Male,Latin America,PhD,4.0,5,Mobile,Daily,Customer Support,Good experience overall.
+RES_0034,2026-03-23 16:50:08.408909,68.0,Female,Europe,High School,4.0,10,Tablet,Weekly,Feature Set,Good experience overall.
+RES_0035,2026-04-08 15:50:08.408909,24.0,Female,Europe,Master,3.0,2,Mobile,Daily,Feature Set,Average experience.
+RES_0036,2026-04-05 20:50:08.408909,20.0,Female,North America,High School,5.0,7,Smart Watch,Daily,User Interface,Best app I've used this year.
+RES_0037,2026-04-06 06:50:08.408909,64.0,Female,ME-Africa,PhD,2.0,2,Smart Watch,Weekly,Customer Support,A bit frustrated with the glitches.
+RES_0038,2026-04-16 05:50:08.408909,40.0,Male,Latin America,High School,4.0,1,Tablet,Rarely,Pricing,Good experience overall.
+RES_0039,2026-04-12 19:50:08.408909,63.0,Male,Europe,PhD,5.0,2,Mobile,Monthly,Customer Support,Best app I've used this year.
+RES_0040,2026-04-18 17:50:08.408909,,Male,ME-Africa,High School,5.0,10,Mobile,Daily,Customer Support,"Love the interface, very intuitive!"
+RES_0041,2026-03-29 13:50:08.408909,64.0,Female,North America,Master,4.0,5,Tablet,Weekly,Feature Set,Decent features for the price.
+RES_0042,2026-04-16 01:50:08.408909,62.0,Female,Asia-Pacific,Master,3.0,1,Desktop,Daily,Customer Support,Average experience.
+RES_0043,2026-03-22 05:50:08.408909,35.0,Male,ME-Africa,High School,5.0,7,Mobile,Weekly,Customer Support,"Love the interface, very intuitive!"
+RES_0044,2026-03-25 11:50:08.408909,55.0,Male,ME-Africa,High School,4.0,0,Desktop,Monthly,Pricing,Works well but interface could be cleaner.
+RES_0045,2026-04-18 13:50:08.408909,52.0,Female,Asia-Pacific,Master,5.0,6,Mobile,Monthly,Feature Set,Exceeded my expectations.
+RES_0046,2026-03-21 19:50:08.408909,68.0,Prefer not to say,ME-Africa,PhD,5.0,1,Mobile,Rarely,Customer Support,Best app I've used this year.
+RES_0047,2026-04-06 07:50:08.408909,32.0,Female,North America,Master,1.0,9,Mobile,Weekly,Performance,Waste of money.
+RES_0048,2026-04-05 15:50:08.408909,42.0,Male,North America,PhD,2.0,5,Mobile,Weekly,User Interface,Slow performance at times.
+RES_0049,2026-04-06 00:50:08.408909,72.0,Male,Asia-Pacific,High School,4.0,1,Smart Watch,Rarely,Pricing,Decent features for the price.
+RES_0050,2026-03-23 15:50:08.408909,54.0,Male,Latin America,High School,3.0,1,Desktop,Rarely,Customer Support,"It's okay, does what it needs to do."
+RES_0051,2026-03-30 07:50:08.408909,45.0,Non-Binary,Europe,PhD,3.0,9,Desktop,Weekly,Performance,Some bugs but manageable.
+RES_0052,2026-04-07 05:50:08.408909,27.0,Male,Latin America,High School,5.0,7,Mobile,Rarely,Customer Support,Best app I've used this year.
+RES_0053,2026-04-05 02:50:08.408909,56.0,Female,ME-Africa,PhD,,1,Mobile,Monthly,Customer Support,Good experience overall.
+RES_0054,2026-03-27 10:50:08.408909,74.0,Male,Europe,Bachelor,5.0,6,Desktop,Daily,Feature Set,Exceeded my expectations.
+RES_0055,2026-04-11 08:50:08.408909,34.0,Female,Asia-Pacific,Master,4.0,2,Smart Watch,Monthly,Feature Set,Good experience overall.
+RES_0056,2026-04-07 22:50:08.408909,,Female,Asia-Pacific,Bachelor,4.0,7,Tablet,Rarely,Feature Set,Good experience overall.
+RES_0057,2026-03-26 16:50:08.408909,39.0,Female,Europe,PhD,2.0,6,Tablet,Weekly,Performance,Slow performance at times.
+RES_0058,2026-04-10 23:50:08.409686,43.0,Male,North America,Master,3.0,7,Desktop,Weekly,Customer Support,"It's okay, does what it needs to do."
+RES_0059,2026-04-19 11:50:08.409686,61.0,Male,Europe,PhD,3.0,6,Mobile,Monthly,User Interface,Needs more updates.
+RES_0060,2026-04-11 23:50:08.409686,42.0,Male,ME-Africa,Master,4.0,10,Mobile,Weekly,Pricing,Solid performance.
+RES_0061,2026-04-09 04:50:08.409686,34.0,Non-Binary,North America,Master,5.0,5,Smart Watch,Rarely,Feature Set,Highly recommended.
+RES_0062,2026-04-03 15:50:08.409686,30.0,Female,Asia-Pacific,Master,4.0,6,Tablet,Monthly,Feature Set,Works well but interface could be cleaner.
+RES_0063,2026-04-17 20:50:08.409686,37.0,Female,Europe,Master,4.0,4,Smart Watch,Weekly,Customer Support,Good experience overall.
+RES_0064,2026-04-19 18:50:08.409686,42.0,Female,Latin America,PhD,4.0,6,Tablet,Daily,Customer Support,Works well but interface could be cleaner.
+RES_0065,2026-04-10 16:50:08.409686,21.0,Female,Latin America,Master,2.0,0,Desktop,Daily,Performance,Interface is confusing.
+RES_0066,2026-03-25 14:50:08.409686,27.0,Male,ME-Africa,Master,4.0,0,Tablet,Rarely,Performance,Good experience overall.
+RES_0067,2026-03-23 16:50:08.409686,,Non-Binary,Latin America,Bachelor,3.0,8,Smart Watch,Weekly,Feature Set,Some bugs but manageable.
+RES_0068,2026-04-11 15:50:08.409686,58.0,Male,Europe,High School,3.0,4,Smart Watch,Rarely,Customer Support,"It's okay, does what it needs to do."
+RES_0069,2026-04-08 21:50:08.409686,,Male,Europe,High School,2.0,4,Smart Watch,Monthly,User Interface,Interface is confusing.
+RES_0070,2026-04-19 07:50:08.409686,35.0,Female,Latin America,Bachelor,4.0,2,Desktop,Daily,Pricing,Works well but interface could be cleaner.
+RES_0071,2026-03-28 00:50:08.409686,64.0,Male,Europe,Bachelor,5.0,4,Tablet,Monthly,Customer Support,Exceeded my expectations.
+RES_0072,2026-03-20 23:50:08.409686,53.0,Male,ME-Africa,PhD,3.0,2,Tablet,Weekly,Customer Support,"It's okay, does what it needs to do."
+RES_0073,2026-04-15 20:50:08.409686,64.0,Female,North America,PhD,3.0,8,Smart Watch,Rarely,Performance,Average experience.
+RES_0074,2026-04-08 15:50:08.409686,39.0,Male,ME-Africa,PhD,4.0,8,Tablet,Rarely,Pricing,Decent features for the price.
+RES_0075,2026-03-29 20:50:08.409686,51.0,Female,ME-Africa,Bachelor,3.0,5,Mobile,Rarely,Feature Set,Average experience.
+RES_0076,2026-04-19 20:50:08.409686,64.0,Male,Europe,Bachelor,5.0,0,Mobile,Monthly,Customer Support,Best app I've used this year.
+RES_0077,2026-04-15 08:50:08.409686,25.0,Male,North America,Master,4.0,6,Mobile,Daily,Feature Set,Solid performance.
+RES_0078,2026-04-06 20:50:08.409686,57.0,Male,Europe,PhD,4.0,6,Tablet,Monthly,Customer Support,Decent features for the price.
+RES_0079,2026-04-19 18:50:08.409686,66.0,Male,Asia-Pacific,PhD,4.0,9,Desktop,Monthly,Feature Set,Works well but interface could be cleaner.
+RES_0080,2026-03-25 00:50:08.409686,61.0,Female,Europe,PhD,3.0,9,Desktop,Weekly,Pricing,Average experience.
+RES_0081,2026-04-06 16:50:08.409686,36.0,Male,Europe,High School,4.0,3,Desktop,Weekly,Performance,Decent features for the price.
+RES_0082,2026-03-24 14:50:08.409686,59.0,Female,Europe,Master,4.0,7,Desktop,Weekly,Pricing,Good experience overall.
+RES_0083,2026-04-05 08:50:08.409686,58.0,Female,North America,PhD,5.0,5,Mobile,Daily,User Interface,"Love the interface, very intuitive!"
+RES_0084,2026-03-25 13:50:08.409686,54.0,Female,Europe,PhD,3.0,3,Mobile,Daily,Performance,Average experience.
+RES_0085,2026-03-23 10:50:08.409686,23.0,Non-Binary,North America,PhD,4.0,3,Smart Watch,Weekly,Pricing,Works well but interface could be cleaner.
+RES_0086,2026-04-01 16:50:08.409686,69.0,Female,Latin America,High School,,1,Tablet,Weekly,User Interface,Good experience overall.
+RES_0087,2026-04-03 03:50:08.409686,43.0,Male,Asia-Pacific,High School,1.0,1,Tablet,Daily,Customer Support,Completely broken.
+RES_0088,2026-03-22 19:50:08.409686,51.0,Male,North America,Bachelor,4.0,3,Desktop,Rarely,Customer Support,Decent features for the price.
+RES_0089,2026-03-21 18:50:08.409686,73.0,Male,Latin America,Master,4.0,4,Mobile,Daily,Feature Set,Decent features for the price.
+RES_0090,2026-03-28 16:50:08.409686,62.0,Female,North America,Bachelor,5.0,7,Desktop,Daily,Performance,Exceeded my expectations.
+RES_0091,2026-04-07 08:50:08.409686,23.0,Male,North America,Master,3.0,5,Smart Watch,Daily,Customer Support,Some bugs but manageable.
+RES_0092,2026-04-09 19:50:08.409686,54.0,Female,Asia-Pacific,High School,5.0,3,Tablet,Weekly,Performance,Exceeded my expectations.
+RES_0093,2026-04-07 16:50:08.409686,74.0,Female,ME-Africa,PhD,5.0,10,Tablet,Rarely,Customer Support,Exceeded my expectations.
+RES_0094,2026-03-24 04:50:08.409686,50.0,Male,ME-Africa,Bachelor,5.0,6,Desktop,Daily,Feature Set,Exceeded my expectations.
+RES_0095,2026-03-29 21:50:08.409686,70.0,Female,North America,PhD,2.0,7,Smart Watch,Weekly,Pricing,Slow performance at times.
+RES_0096,2026-04-10 10:50:08.409686,39.0,Male,Europe,Bachelor,4.0,1,Tablet,Monthly,Feature Set,Decent features for the price.
+RES_0097,2026-03-21 02:50:08.409686,38.0,Male,Latin America,High School,3.0,6,Smart Watch,Monthly,User Interface,Some bugs but manageable.
+RES_0098,2026-04-14 11:50:08.409686,23.0,Female,Europe,High School,5.0,1,Smart Watch,Daily,Customer Support,"Love the interface, very intuitive!"
+RES_0099,2026-04-08 03:50:08.409686,23.0,Female,Europe,High School,4.0,1,Desktop,Monthly,User Interface,Solid performance.
+RES_0100,2026-03-21 12:50:08.409686,72.0,Female,North America,Bachelor,2.0,7,Mobile,Rarely,User Interface,Slow performance at times.
+RES_0101,2026-03-25 00:50:08.409686,65.0,Male,North America,Master,4.0,1,Desktop,Monthly,Performance,Decent features for the price.
+RES_0102,2026-03-23 16:50:08.409686,21.0,Male,North America,Bachelor,3.0,10,Mobile,Monthly,Customer Support,Needs more updates.
+RES_0103,2026-03-21 22:50:08.409686,47.0,Female,North America,Master,5.0,8,Smart Watch,Rarely,User Interface,Exceeded my expectations.
+RES_0104,2026-04-19 03:50:08.409686,28.0,Female,ME-Africa,Bachelor,5.0,0,Mobile,Daily,Pricing,Highly recommended.
+RES_0105,2026-04-07 14:50:08.409686,47.0,Female,North America,Bachelor,4.0,8,Smart Watch,Daily,User Interface,Works well but interface could be cleaner.
+RES_0106,2026-04-17 16:50:08.409686,48.0,Male,ME-Africa,High School,2.0,0,Tablet,Rarely,Pricing,Expected more.
+RES_0107,2026-04-14 15:50:08.409686,41.0,Female,ME-Africa,PhD,4.0,9,Tablet,Rarely,Performance,Decent features for the price.
+RES_0108,2026-03-24 14:50:08.409686,72.0,Male,North America,PhD,2.0,9,Tablet,Rarely,User Interface,Expected more.
+RES_0109,2026-03-21 18:50:08.409686,26.0,Male,Asia-Pacific,Master,1.0,1,Desktop,Monthly,Feature Set,Customer support was unhelpful.
+RES_0110,2026-04-19 04:50:08.409686,72.0,Non-Binary,Latin America,PhD,5.0,5,Desktop,Rarely,Performance,"Love the interface, very intuitive!"
+RES_0111,2026-04-10 11:50:08.409686,20.0,Male,Europe,Bachelor,3.0,5,Smart Watch,Weekly,Pricing,"It's okay, does what it needs to do."
+RES_0112,2026-03-27 08:50:08.409686,68.0,Prefer not to say,ME-Africa,Bachelor,4.0,0,Tablet,Monthly,Performance,Good experience overall.
+RES_0113,2026-03-24 01:50:08.409686,48.0,Male,Latin America,High School,5.0,6,Desktop,Daily,User Interface,Exceeded my expectations.
+RES_0114,2026-03-27 14:50:08.409686,57.0,Male,Asia-Pacific,High School,3.0,7,Tablet,Daily,Customer Support,Some bugs but manageable.
+RES_0115,2026-03-31 06:50:08.409686,54.0,Female,Europe,PhD,3.0,1,Desktop,Daily,Customer Support,Average experience.
+RES_0116,2026-03-21 06:50:08.409686,53.0,Female,Europe,Master,5.0,7,Mobile,Monthly,Pricing,"Love the interface, very intuitive!"
+RES_0117,2026-03-25 03:50:08.409686,41.0,Female,ME-Africa,PhD,2.0,8,Mobile,Weekly,Pricing,Slow performance at times.
+RES_0118,2026-04-08 16:50:08.409686,48.0,Female,North America,PhD,5.0,5,Tablet,Rarely,Customer Support,Highly recommended.
+RES_0119,2026-04-18 20:50:08.409686,,Female,Asia-Pacific,PhD,5.0,4,Smart Watch,Rarely,Pricing,Highly recommended.
+RES_0120,2026-04-03 18:50:08.409686,19.0,Female,ME-Africa,PhD,,8,Desktop,Daily,Performance,"Love the interface, very intuitive!"
+RES_0121,2026-04-02 23:50:08.409686,37.0,Female,Asia-Pacific,Bachelor,4.0,10,Desktop,Daily,Feature Set,Works well but interface could be cleaner.
+RES_0122,2026-04-03 06:50:08.409686,45.0,Male,North America,Master,3.0,8,Mobile,Monthly,Feature Set,Average experience.
+RES_0123,2026-04-18 21:50:08.409686,28.0,Female,North America,Bachelor,3.0,0,Mobile,Weekly,Performance,Needs more updates.
+RES_0124,2026-03-23 01:50:08.409686,21.0,Male,ME-Africa,Master,5.0,10,Smart Watch,Rarely,Feature Set,Best app I've used this year.
+RES_0125,2026-03-28 18:50:08.409686,32.0,Prefer not to say,North America,High School,5.0,2,Smart Watch,Monthly,User Interface,"Love the interface, very intuitive!"
+RES_0126,2026-04-19 22:50:08.409686,23.0,Non-Binary,Latin America,PhD,4.0,8,Smart Watch,Rarely,Performance,Decent features for the price.
+RES_0127,2026-04-01 21:50:08.409686,71.0,Male,Europe,Bachelor,3.0,10,Tablet,Daily,Pricing,Some bugs but manageable.
+RES_0128,2026-03-30 11:50:08.409686,66.0,Female,ME-Africa,Master,2.0,1,Mobile,Rarely,Performance,Slow performance at times.
+RES_0129,2026-03-25 17:50:08.409686,47.0,Non-Binary,Asia-Pacific,High School,2.0,3,Tablet,Weekly,Customer Support,Interface is confusing.
+RES_0130,2026-03-28 19:50:08.409686,73.0,Male,Latin America,High School,4.0,3,Mobile,Weekly,Pricing,Decent features for the price.
+RES_0131,2026-03-28 12:50:08.409686,55.0,Female,ME-Africa,PhD,4.0,1,Mobile,Daily,Customer Support,Decent features for the price.
+RES_0132,2026-03-27 06:50:08.409686,68.0,Non-Binary,North America,Master,,2,Desktop,Weekly,Pricing,Exceeded my expectations.
+RES_0133,2026-04-13 23:50:08.409686,74.0,Male,North America,Bachelor,4.0,2,Mobile,Weekly,Feature Set,Decent features for the price.
+RES_0134,2026-04-15 03:50:08.409686,19.0,Female,North America,PhD,3.0,0,Mobile,Monthly,Performance,Needs more updates.
+RES_0135,2026-04-18 17:50:08.409686,32.0,Male,North America,Bachelor,4.0,5,Tablet,Rarely,User Interface,Decent features for the price.
+RES_0136,2026-03-29 12:50:08.409686,28.0,Non-Binary,Asia-Pacific,High School,4.0,7,Mobile,Daily,Pricing,Works well but interface could be cleaner.
+RES_0137,2026-04-04 07:50:08.409686,25.0,Prefer not to say,Latin America,Bachelor,4.0,2,Tablet,Daily,Pricing,Decent features for the price.
+RES_0138,2026-04-19 14:50:08.409686,43.0,Non-Binary,Europe,Bachelor,4.0,4,Smart Watch,Daily,Customer Support,Good experience overall.
+RES_0139,2026-03-23 17:50:08.409686,68.0,Female,Asia-Pacific,PhD,5.0,0,Mobile,Daily,Feature Set,Best app I've used this year.
+RES_0140,2026-04-04 20:50:08.409686,62.0,Female,Asia-Pacific,Bachelor,,9,Mobile,Daily,Customer Support,Highly recommended.
+RES_0141,2026-03-31 19:50:08.411313,61.0,Female,Europe,PhD,3.0,6,Tablet,Weekly,Customer Support,Needs more updates.
+RES_0142,2026-04-01 20:50:08.411313,22.0,Male,Europe,High School,1.0,9,Smart Watch,Monthly,Feature Set,Terrible experience.
+RES_0143,2026-04-01 03:50:08.411313,,Female,North America,PhD,4.0,0,Desktop,Daily,User Interface,Works well but interface could be cleaner.
+RES_0144,2026-04-13 03:50:08.411313,43.0,Male,Asia-Pacific,PhD,2.0,10,Smart Watch,Monthly,Customer Support,Slow performance at times.
+RES_0145,2026-04-11 22:50:08.411313,71.0,Female,ME-Africa,Master,3.0,8,Tablet,Monthly,Customer Support,Some bugs but manageable.
+RES_0146,2026-04-12 16:50:08.411313,21.0,Male,Europe,Bachelor,1.0,7,Smart Watch,Weekly,Pricing,Waste of money.
+RES_0147,2026-04-02 15:50:08.411313,36.0,Male,Europe,High School,4.0,6,Tablet,Daily,Feature Set,Decent features for the price.
+RES_0148,2026-04-19 12:50:08.411313,37.0,Male,Latin America,PhD,3.0,9,Tablet,Weekly,Performance,Needs more updates.
+RES_0149,2026-03-23 05:50:08.411313,50.0,Female,ME-Africa,High School,4.0,6,Desktop,Daily,User Interface,Solid performance.
+RES_0150,2026-03-28 13:50:08.411313,37.0,Male,ME-Africa,Master,5.0,4,Mobile,Weekly,User Interface,Exceeded my expectations.
+RES_0151,2026-04-17 16:50:08.411313,66.0,Female,Europe,Bachelor,2.0,4,Tablet,Monthly,Feature Set,Slow performance at times.
+RES_0152,2026-03-23 07:50:08.411313,29.0,Male,North America,PhD,2.0,10,Tablet,Daily,Pricing,A bit frustrated with the glitches.
+RES_0153,2026-03-25 07:50:08.411313,64.0,Male,Latin America,Bachelor,3.0,4,Desktop,Rarely,Pricing,Some bugs but manageable.
+RES_0154,2026-03-26 03:50:08.411313,18.0,Female,ME-Africa,Master,5.0,0,Tablet,Monthly,Feature Set,"Love the interface, very intuitive!"
+RES_0155,2026-03-23 06:50:08.411313,,Female,Europe,Master,3.0,7,Mobile,Rarely,Pricing,Average experience.
+RES_0156,2026-04-18 22:50:08.411313,31.0,Male,ME-Africa,High School,4.0,10,Desktop,Monthly,User Interface,Decent features for the price.
+RES_0157,2026-04-04 11:50:08.411313,55.0,Female,Latin America,PhD,2.0,0,Mobile,Weekly,User Interface,Slow performance at times.
+RES_0158,2026-04-15 18:50:08.411313,54.0,Female,Latin America,High School,5.0,3,Mobile,Daily,Performance,Highly recommended.
+RES_0159,2026-03-24 00:50:08.411313,28.0,Female,Asia-Pacific,Master,4.0,8,Desktop,Monthly,Feature Set,Decent features for the price.
+RES_0160,2026-04-11 14:50:08.411313,53.0,Male,Europe,Bachelor,5.0,8,Tablet,Weekly,Customer Support,Exceeded my expectations.
+RES_0161,2026-04-17 04:50:08.411313,30.0,Male,Latin America,High School,,4,Mobile,Daily,Customer Support,Exceeded my expectations.
+RES_0162,2026-04-04 07:50:08.411313,60.0,Female,Asia-Pacific,High School,3.0,3,Mobile,Daily,Performance,Average experience.
+RES_0163,2026-04-17 03:50:08.411313,20.0,Male,Asia-Pacific,Bachelor,5.0,2,Mobile,Monthly,Performance,"Love the interface, very intuitive!"
+RES_0164,2026-03-27 01:50:08.411313,50.0,Female,ME-Africa,High School,2.0,2,Mobile,Daily,Pricing,A bit frustrated with the glitches.
+RES_0165,2026-03-27 22:50:08.411313,23.0,Female,ME-Africa,Bachelor,5.0,4,Desktop,Monthly,Performance,Highly recommended.
+RES_0166,2026-03-27 03:50:08.411313,67.0,Non-Binary,Asia-Pacific,PhD,4.0,9,Desktop,Daily,Performance,Solid performance.
+RES_0167,2026-04-09 06:50:08.411313,73.0,Female,ME-Africa,Bachelor,5.0,0,Smart Watch,Rarely,Customer Support,Best app I've used this year.
+RES_0168,2026-04-12 19:50:08.411313,27.0,Prefer not to say,Latin America,PhD,1.0,4,Smart Watch,Weekly,Pricing,Waste of money.
+RES_0169,2026-04-14 15:50:08.411313,22.0,Male,North America,Bachelor,3.0,5,Mobile,Rarely,Performance,Average experience.
+RES_0170,2026-03-31 20:50:08.411313,40.0,Female,Latin America,Master,4.0,6,Tablet,Monthly,Performance,Works well but interface could be cleaner.
+RES_0171,2026-04-04 20:50:08.411313,27.0,Male,Asia-Pacific,Master,4.0,8,Mobile,Rarely,Pricing,Works well but interface could be cleaner.
+RES_0172,2026-03-26 05:50:08.411313,,Female,Asia-Pacific,PhD,3.0,2,Tablet,Monthly,Feature Set,"It's okay, does what it needs to do."
+RES_0173,2026-04-06 05:50:08.411313,19.0,Female,Latin America,PhD,4.0,1,Mobile,Daily,Pricing,Good experience overall.
+RES_0174,2026-04-18 01:50:08.411313,30.0,Female,ME-Africa,Master,2.0,2,Smart Watch,Daily,Customer Support,A bit frustrated with the glitches.
+RES_0175,2026-04-17 07:50:08.411313,57.0,Prefer not to say,ME-Africa,PhD,4.0,8,Smart Watch,Monthly,Feature Set,Solid performance.
+RES_0176,2026-03-22 14:50:08.412463,19.0,Female,Asia-Pacific,Bachelor,5.0,6,Tablet,Rarely,User Interface,Highly recommended.
+RES_0177,2026-04-16 22:50:08.412463,37.0,Male,Europe,Bachelor,4.0,8,Mobile,Daily,Pricing,Works well but interface could be cleaner.
+RES_0178,2026-04-16 22:50:08.412463,18.0,Male,ME-Africa,Master,1.0,1,Tablet,Weekly,Customer Support,Completely broken.
+RES_0179,2026-04-06 02:50:08.412463,54.0,Female,Latin America,High School,4.0,4,Smart Watch,Daily,Feature Set,Works well but interface could be cleaner.
+RES_0180,2026-04-04 03:50:08.412463,26.0,Male,ME-Africa,Bachelor,1.0,3,Mobile,Weekly,Pricing,Terrible experience.
+RES_0181,2026-03-27 15:50:08.412463,34.0,Male,Latin America,PhD,5.0,1,Mobile,Rarely,Performance,Exceeded my expectations.
+RES_0182,2026-04-13 20:50:08.412463,26.0,Male,Asia-Pacific,High School,2.0,8,Tablet,Weekly,Pricing,A bit frustrated with the glitches.
+RES_0183,2026-04-03 22:50:08.412463,,Male,ME-Africa,High School,4.0,8,Desktop,Weekly,User Interface,Works well but interface could be cleaner.
+RES_0184,2026-04-04 11:50:08.412463,32.0,Male,Latin America,Bachelor,,5,Tablet,Weekly,Pricing,Best app I've used this year.
+RES_0185,2026-03-24 04:50:08.412463,41.0,Male,Asia-Pacific,Bachelor,5.0,10,Smart Watch,Weekly,Feature Set,Highly recommended.
+RES_0186,2026-03-29 00:50:08.412463,,Male,Europe,High School,4.0,5,Smart Watch,Daily,Feature Set,Works well but interface could be cleaner.
+RES_0187,2026-03-29 09:50:08.412463,72.0,Male,Latin America,High School,5.0,7,Smart Watch,Weekly,Pricing,"Love the interface, very intuitive!"
+RES_0188,2026-03-21 17:50:08.412463,52.0,Prefer not to say,Europe,Master,5.0,5,Smart Watch,Daily,Feature Set,Best app I've used this year.
+RES_0189,2026-04-14 10:50:08.412463,47.0,Male,Europe,PhD,4.0,0,Smart Watch,Weekly,Performance,Decent features for the price.
+RES_0190,2026-04-01 01:50:08.412463,48.0,Male,North America,Master,4.0,3,Desktop,Monthly,Pricing,Decent features for the price.
+RES_0191,2026-04-12 21:50:08.412463,66.0,Female,ME-Africa,Bachelor,4.0,6,Mobile,Rarely,Performance,Good experience overall.
+RES_0192,2026-03-30 22:50:08.412463,22.0,Male,Latin America,Master,4.0,1,Tablet,Weekly,Performance,Solid performance.
+RES_0193,2026-03-23 08:50:08.412463,61.0,Non-Binary,Europe,Master,4.0,8,Tablet,Monthly,Customer Support,Works well but interface could be cleaner.
+RES_0194,2026-04-19 18:50:08.412463,67.0,Female,North America,Master,4.0,7,Smart Watch,Weekly,Pricing,Decent features for the price.
+RES_0195,2026-03-23 07:50:08.412463,31.0,Male,Asia-Pacific,Master,3.0,7,Tablet,Weekly,Feature Set,Average experience.
+RES_0196,2026-04-01 19:50:08.412463,70.0,Male,Latin America,PhD,2.0,6,Smart Watch,Weekly,Performance,Interface is confusing.
+RES_0197,2026-04-17 06:50:08.412463,73.0,Female,Europe,PhD,2.0,3,Desktop,Monthly,Customer Support,Slow performance at times.
+RES_0198,2026-04-03 11:50:08.412463,28.0,Non-Binary,ME-Africa,High School,3.0,1,Desktop,Rarely,Pricing,Needs more updates.
+RES_0199,2026-03-23 09:50:08.412463,26.0,Female,North America,Bachelor,1.0,2,Mobile,Monthly,Pricing,Waste of money.
+RES_0200,2026-03-30 17:50:08.412463,51.0,Female,Europe,Master,4.0,5,Desktop,Rarely,User Interface,Decent features for the price.
+RES_0201,2026-04-17 14:50:08.412463,29.0,Male,ME-Africa,High School,3.0,4,Desktop,Weekly,User Interface,"It's okay, does what it needs to do."
+RES_0202,2026-04-14 23:50:08.412463,,Prefer not to say,Europe,High School,5.0,7,Mobile,Daily,Performance,"Love the interface, very intuitive!"
+RES_0203,2026-03-22 06:50:08.412463,52.0,Male,Latin America,High School,2.0,5,Tablet,Weekly,User Interface,Interface is confusing.
+RES_0204,2026-04-06 02:50:08.412463,18.0,Non-Binary,Latin America,PhD,3.0,5,Smart Watch,Rarely,Performance,Needs more updates.
+RES_0205,2026-04-17 22:50:08.412463,57.0,Female,Latin America,Master,4.0,0,Smart Watch,Monthly,Feature Set,Works well but interface could be cleaner.
+RES_0206,2026-03-31 02:50:08.412463,39.0,Female,North America,Master,4.0,3,Tablet,Weekly,Performance,Decent features for the price.
+RES_0207,2026-03-28 22:50:08.412463,46.0,Female,Latin America,Bachelor,2.0,4,Mobile,Monthly,User Interface,Expected more.
+RES_0208,2026-04-17 05:50:08.412463,25.0,Male,ME-Africa,Master,5.0,10,Tablet,Monthly,Feature Set,Exceeded my expectations.
+RES_0209,2026-03-26 13:50:08.412463,28.0,Male,Europe,Master,5.0,2,Desktop,Monthly,User Interface,Exceeded my expectations.
+RES_0210,2026-03-29 20:50:08.412463,58.0,Male,Asia-Pacific,High School,3.0,8,Mobile,Weekly,Performance,Some bugs but manageable.
+RES_0211,2026-04-12 09:50:08.412463,54.0,Male,ME-Africa,Bachelor,3.0,0,Mobile,Monthly,Customer Support,Average experience.
+RES_0212,2026-03-27 05:50:08.412463,31.0,Female,ME-Africa,Master,5.0,5,Mobile,Monthly,Pricing,Exceeded my expectations.
+RES_0213,2026-04-05 01:50:08.412463,47.0,Male,Latin America,PhD,4.0,5,Smart Watch,Weekly,User Interface,Solid performance.
+RES_0214,2026-03-28 21:50:08.412463,52.0,Male,North America,Master,4.0,9,Tablet,Monthly,Performance,Good experience overall.
+RES_0215,2026-03-24 13:50:08.412463,38.0,Prefer not to say,Europe,High School,5.0,4,Mobile,Weekly,Feature Set,Highly recommended.
+RES_0216,2026-04-18 06:50:08.412463,54.0,Female,North America,PhD,3.0,4,Mobile,Rarely,User Interface,Needs more updates.
+RES_0217,2026-04-12 22:50:08.412463,22.0,Non-Binary,Europe,High School,4.0,9,Mobile,Rarely,User Interface,Solid performance.
+RES_0218,2026-04-11 12:50:08.413456,36.0,Prefer not to say,Europe,Master,3.0,4,Tablet,Rarely,Pricing,Needs more updates.
+RES_0219,2026-03-29 07:50:08.413456,31.0,Male,North America,PhD,5.0,5,Smart Watch,Monthly,Performance,"Love the interface, very intuitive!"
+RES_0220,2026-04-13 13:50:08.413456,43.0,Male,ME-Africa,Bachelor,4.0,7,Desktop,Daily,Customer Support,Good experience overall.
+RES_0221,2026-03-28 20:50:08.413456,21.0,Female,Europe,Bachelor,4.0,1,Smart Watch,Daily,Feature Set,Solid performance.
+RES_0222,2026-04-01 23:50:08.413456,42.0,Female,North America,PhD,3.0,5,Mobile,Monthly,Performance,"It's okay, does what it needs to do."
+RES_0223,2026-04-07 16:50:08.413456,62.0,Male,Europe,PhD,3.0,0,Smart Watch,Daily,Feature Set,Needs more updates.
+RES_0224,2026-03-26 19:50:08.413456,59.0,Female,Asia-Pacific,High School,4.0,3,Smart Watch,Weekly,User Interface,Works well but interface could be cleaner.
+RES_0225,2026-04-07 03:50:08.413456,42.0,Male,ME-Africa,PhD,4.0,9,Desktop,Daily,Pricing,Decent features for the price.
+RES_0226,2026-04-19 15:50:08.413456,35.0,Male,Latin America,High School,4.0,2,Tablet,Monthly,Pricing,Works well but interface could be cleaner.
+RES_0227,2026-04-06 07:50:08.413456,57.0,Female,Europe,Master,1.0,8,Tablet,Monthly,Customer Support,Completely broken.
+RES_0228,2026-04-06 11:50:08.413456,25.0,Female,Asia-Pacific,High School,5.0,2,Smart Watch,Weekly,Pricing,Best app I've used this year.
+RES_0229,2026-04-01 00:50:08.413456,56.0,Female,Latin America,PhD,2.0,5,Smart Watch,Rarely,User Interface,A bit frustrated with the glitches.
+RES_0230,2026-04-05 21:50:08.413456,57.0,Male,Latin America,PhD,5.0,0,Tablet,Monthly,Customer Support,Highly recommended.
+RES_0231,2026-04-18 00:50:08.413456,31.0,Female,Europe,Master,1.0,5,Tablet,Weekly,Performance,Waste of money.
+RES_0232,2026-03-29 04:50:08.413456,49.0,Male,North America,PhD,4.0,3,Desktop,Daily,Pricing,Decent features for the price.
+RES_0233,2026-03-26 01:50:08.413456,68.0,Male,Europe,PhD,2.0,7,Mobile,Daily,Customer Support,Slow performance at times.
+RES_0234,2026-03-25 01:50:08.413456,55.0,Female,Asia-Pacific,Bachelor,5.0,10,Smart Watch,Weekly,User Interface,Exceeded my expectations.
+RES_0235,2026-04-03 03:50:08.413456,,Prefer not to say,Latin America,Bachelor,4.0,8,Tablet,Weekly,Feature Set,Good experience overall.
+RES_0236,2026-04-10 17:50:08.413456,40.0,Female,Europe,Master,2.0,3,Smart Watch,Monthly,Feature Set,Slow performance at times.
+RES_0237,2026-04-05 01:50:08.413456,32.0,Female,North America,High School,3.0,9,Smart Watch,Daily,User Interface,Average experience.
+RES_0238,2026-04-09 18:50:08.413456,50.0,Female,Europe,Bachelor,3.0,9,Tablet,Weekly,User Interface,Some bugs but manageable.
+RES_0239,2026-04-19 15:50:08.413456,42.0,Female,ME-Africa,High School,3.0,5,Desktop,Daily,Feature Set,"It's okay, does what it needs to do."
+RES_0240,2026-03-30 11:50:08.413456,34.0,Male,North America,PhD,5.0,0,Smart Watch,Weekly,Customer Support,Highly recommended.
+RES_0241,2026-04-08 18:50:08.413456,50.0,Male,Asia-Pacific,Bachelor,4.0,3,Desktop,Daily,Feature Set,Decent features for the price.
+RES_0242,2026-04-13 19:50:08.413456,64.0,Male,Latin America,Master,5.0,6,Tablet,Rarely,User Interface,Exceeded my expectations.
+RES_0243,2026-04-14 10:50:08.413456,72.0,Male,Europe,Master,4.0,0,Mobile,Monthly,Pricing,Works well but interface could be cleaner.
+RES_0244,2026-03-31 08:50:08.413456,19.0,Female,North America,Master,4.0,7,Mobile,Daily,Performance,Good experience overall.
+RES_0245,2026-04-17 00:50:08.413456,31.0,Female,ME-Africa,Bachelor,2.0,9,Smart Watch,Rarely,Pricing,Interface is confusing.
+RES_0246,2026-04-12 03:50:08.413456,70.0,Male,North America,High School,3.0,10,Tablet,Daily,Pricing,"It's okay, does what it needs to do."
+RES_0247,2026-04-04 10:50:08.413456,57.0,Male,ME-Africa,PhD,5.0,5,Desktop,Daily,User Interface,Exceeded my expectations.
+RES_0248,2026-04-02 13:50:08.413456,57.0,Female,Asia-Pacific,High School,5.0,4,Smart Watch,Rarely,Feature Set,"Love the interface, very intuitive!"
+RES_0249,2026-03-21 04:50:08.413456,,Male,Latin America,High School,3.0,9,Tablet,Daily,Customer Support,"It's okay, does what it needs to do."
+RES_0250,2026-04-02 23:50:08.413456,56.0,Female,Asia-Pacific,PhD,3.0,10,Tablet,Daily,Pricing,Some bugs but manageable.
+RES_0251,2026-04-01 00:50:08.413456,68.0,Female,Europe,PhD,4.0,8,Desktop,Monthly,Feature Set,Works well but interface could be cleaner.
+RES_0252,2026-03-25 18:50:08.413456,23.0,Female,North America,Bachelor,5.0,1,Smart Watch,Rarely,Customer Support,Exceeded my expectations.
+RES_0253,2026-03-25 02:50:08.413456,23.0,Female,ME-Africa,Bachelor,3.0,4,Tablet,Rarely,Pricing,"It's okay, does what it needs to do."
+RES_0254,2026-03-21 00:50:08.413456,,Female,ME-Africa,Bachelor,4.0,5,Tablet,Weekly,Customer Support,Solid performance.
+RES_0255,2026-04-11 11:50:08.413456,24.0,Male,North America,Bachelor,,6,Tablet,Daily,Feature Set,"Love the interface, very intuitive!"
+RES_0256,2026-03-30 22:50:08.413456,68.0,Female,North America,Bachelor,1.0,4,Desktop,Monthly,Performance,Completely broken.
+RES_0257,2026-03-25 22:50:08.413456,25.0,Female,Europe,PhD,1.0,8,Smart Watch,Daily,Feature Set,Customer support was unhelpful.
+RES_0258,2026-04-05 21:50:08.413456,59.0,Male,Asia-Pacific,High School,4.0,0,Smart Watch,Daily,User Interface,Decent features for the price.
+RES_0259,2026-03-21 01:50:08.413456,69.0,Female,ME-Africa,Bachelor,5.0,6,Smart Watch,Weekly,Customer Support,Exceeded my expectations.
+RES_0260,2026-04-04 15:50:08.413456,32.0,Female,Europe,Bachelor,3.0,9,Smart Watch,Daily,Performance,Average experience.
+RES_0261,2026-04-07 02:50:08.413456,64.0,Female,Asia-Pacific,High School,4.0,6,Mobile,Monthly,Customer Support,Good experience overall.
+RES_0262,2026-04-19 07:50:08.414460,46.0,Female,Europe,Bachelor,4.0,3,Mobile,Monthly,Customer Support,Decent features for the price.
+RES_0263,2026-03-22 16:50:08.414460,50.0,Female,ME-Africa,High School,,8,Smart Watch,Weekly,Pricing,Works well but interface could be cleaner.
+RES_0264,2026-04-15 01:50:08.414460,69.0,Female,North America,High School,4.0,10,Desktop,Daily,User Interface,Good experience overall.
+RES_0265,2026-03-22 00:50:08.414460,47.0,Female,North America,PhD,4.0,4,Mobile,Monthly,Customer Support,Decent features for the price.
+RES_0266,2026-04-17 11:50:08.414460,56.0,Female,Asia-Pacific,Master,4.0,3,Tablet,Daily,Feature Set,Decent features for the price.
+RES_0267,2026-03-25 07:50:08.414460,44.0,Female,Latin America,PhD,4.0,6,Mobile,Daily,Feature Set,Solid performance.
+RES_0268,2026-04-01 18:50:08.414460,53.0,Female,Asia-Pacific,Master,4.0,3,Tablet,Daily,Pricing,Good experience overall.
+RES_0269,2026-03-29 09:50:08.414460,46.0,Female,Latin America,Master,4.0,2,Smart Watch,Weekly,User Interface,Works well but interface could be cleaner.
+RES_0270,2026-03-23 18:50:08.414460,55.0,Male,Europe,Master,5.0,8,Mobile,Daily,User Interface,Best app I've used this year.
+RES_0271,2026-04-05 06:50:08.414460,74.0,Female,Europe,Bachelor,1.0,10,Desktop,Monthly,Feature Set,Waste of money.
+RES_0272,2026-03-21 09:50:08.414460,50.0,Female,ME-Africa,PhD,5.0,7,Mobile,Daily,Performance,"Love the interface, very intuitive!"
+RES_0273,2026-03-21 03:50:08.414460,54.0,Male,Latin America,Master,,0,Mobile,Monthly,Pricing,Best app I've used this year.
+RES_0274,2026-04-15 11:50:08.414460,44.0,Female,ME-Africa,High School,3.0,6,Mobile,Daily,Pricing,Average experience.
+RES_0275,2026-04-04 07:50:08.414460,72.0,Male,North America,Bachelor,4.0,8,Smart Watch,Monthly,Feature Set,Works well but interface could be cleaner.
+RES_0276,2026-03-30 16:50:08.414460,50.0,Male,Latin America,PhD,4.0,7,Desktop,Monthly,Feature Set,Solid performance.
+RES_0277,2026-04-16 22:50:08.414460,,Female,Asia-Pacific,Master,3.0,7,Mobile,Daily,Performance,Some bugs but manageable.
+RES_0278,2026-03-21 18:50:08.414460,39.0,Male,North America,High School,4.0,5,Desktop,Daily,Performance,Good experience overall.
+RES_0279,2026-03-28 13:50:08.414460,19.0,Female,North America,PhD,1.0,10,Smart Watch,Monthly,User Interface,Terrible experience.
+RES_0280,2026-03-29 18:50:08.414460,27.0,Female,Asia-Pacific,PhD,3.0,3,Tablet,Rarely,Pricing,Average experience.
+RES_0281,2026-04-16 21:50:08.414460,22.0,Female,North America,Bachelor,5.0,7,Mobile,Weekly,Pricing,Exceeded my expectations.
+RES_0282,2026-03-31 13:50:08.414460,27.0,Male,Latin America,PhD,3.0,2,Desktop,Rarely,Feature Set,Needs more updates.
+RES_0283,2026-03-25 04:50:08.414460,50.0,Male,ME-Africa,Bachelor,5.0,8,Desktop,Rarely,User Interface,Highly recommended.
+RES_0284,2026-03-25 22:50:08.414460,71.0,Female,North America,Master,4.0,1,Smart Watch,Daily,Pricing,Works well but interface could be cleaner.
+RES_0285,2026-03-27 18:50:08.415055,55.0,Prefer not to say,Latin America,Bachelor,5.0,1,Mobile,Weekly,User Interface,Best app I've used this year.
+RES_0286,2026-04-07 19:50:08.415055,30.0,Female,Europe,High School,4.0,6,Tablet,Rarely,User Interface,Solid performance.
+RES_0287,2026-04-03 23:50:08.415055,48.0,Male,Latin America,Bachelor,1.0,9,Desktop,Daily,Feature Set,Completely broken.
+RES_0288,2026-04-04 00:50:08.415055,64.0,Female,ME-Africa,High School,4.0,3,Mobile,Rarely,User Interface,Solid performance.
+RES_0289,2026-04-18 06:50:08.415055,53.0,Female,Latin America,Bachelor,1.0,9,Tablet,Rarely,Performance,Terrible experience.
+RES_0290,2026-03-23 03:50:08.415055,62.0,Female,Asia-Pacific,PhD,4.0,7,Desktop,Daily,Performance,Good experience overall.
+RES_0291,2026-03-27 11:50:08.415055,41.0,Male,ME-Africa,Master,5.0,8,Desktop,Daily,Customer Support,Best app I've used this year.
+RES_0292,2026-04-02 20:50:08.415055,69.0,Female,Europe,High School,3.0,6,Tablet,Daily,Feature Set,"It's okay, does what it needs to do."
+RES_0293,2026-03-23 22:50:08.415055,73.0,Female,Asia-Pacific,Bachelor,4.0,4,Tablet,Weekly,Customer Support,Solid performance.
+RES_0294,2026-04-19 04:50:08.415055,32.0,Prefer not to say,Latin America,Bachelor,4.0,7,Smart Watch,Rarely,Performance,Solid performance.
+RES_0295,2026-04-09 18:50:08.415055,46.0,Male,ME-Africa,Bachelor,5.0,3,Mobile,Daily,Customer Support,"Love the interface, very intuitive!"
+RES_0296,2026-04-08 20:50:08.415055,25.0,Female,Europe,PhD,4.0,1,Mobile,Monthly,Feature Set,Decent features for the price.
+RES_0297,2026-04-19 22:50:08.415055,22.0,Non-Binary,Asia-Pacific,PhD,3.0,10,Smart Watch,Rarely,Feature Set,Average experience.
+RES_0298,2026-04-12 13:50:08.415055,46.0,Male,Europe,High School,4.0,5,Desktop,Monthly,User Interface,Decent features for the price.
+RES_0299,2026-04-09 11:50:08.415055,64.0,Non-Binary,Latin America,High School,3.0,8,Tablet,Weekly,Pricing,Average experience.
+RES_0300,2026-03-22 10:50:08.415055,21.0,Female,Europe,PhD,4.0,0,Tablet,Daily,User Interface,Decent features for the price.
+RES_0301,2026-04-08 09:50:08.415055,29.0,Male,North America,High School,5.0,10,Tablet,Monthly,Feature Set,"Love the interface, very intuitive!"
+RES_0302,2026-04-18 04:50:08.415055,62.0,Male,Asia-Pacific,Master,4.0,9,Desktop,Weekly,Performance,Works well but interface could be cleaner.
+RES_0303,2026-04-02 20:50:08.415055,19.0,Female,Europe,Master,5.0,6,Tablet,Daily,Performance,Best app I've used this year.
+RES_0304,2026-03-28 06:50:08.415055,44.0,Male,Latin America,PhD,1.0,9,Tablet,Monthly,User Interface,Waste of money.
+RES_0305,2026-03-25 15:50:08.415055,48.0,Female,Latin America,High School,4.0,8,Smart Watch,Monthly,Feature Set,Solid performance.
+RES_0306,2026-03-22 13:50:08.415055,68.0,Male,Europe,Bachelor,5.0,9,Desktop,Weekly,Performance,Exceeded my expectations.
+RES_0307,2026-03-25 21:50:08.415055,68.0,Female,Latin America,Master,1.0,8,Mobile,Daily,Feature Set,Customer support was unhelpful.
+RES_0308,2026-04-01 14:50:08.415055,53.0,Male,ME-Africa,PhD,5.0,9,Smart Watch,Daily,Performance,"Love the interface, very intuitive!"
+RES_0309,2026-04-13 19:50:08.415055,53.0,Female,ME-Africa,High School,3.0,10,Smart Watch,Monthly,Feature Set,Some bugs but manageable.
+RES_0310,2026-03-25 02:50:08.415055,43.0,Prefer not to say,ME-Africa,PhD,4.0,2,Mobile,Monthly,Customer Support,Works well but interface could be cleaner.
+RES_0311,2026-04-02 10:50:08.415055,60.0,Prefer not to say,North America,Bachelor,5.0,10,Smart Watch,Monthly,Feature Set,Exceeded my expectations.
+RES_0312,2026-04-08 23:50:08.415055,44.0,Female,Europe,Master,4.0,4,Desktop,Daily,Feature Set,Good experience overall.
+RES_0313,2026-04-16 02:50:08.415055,22.0,Male,North America,PhD,2.0,7,Tablet,Weekly,User Interface,Slow performance at times.
+RES_0314,2026-03-22 19:50:08.415055,37.0,Female,Latin America,PhD,4.0,7,Desktop,Weekly,Customer Support,Works well but interface could be cleaner.
+RES_0315,2026-04-10 18:50:08.415055,28.0,Male,North America,PhD,4.0,3,Mobile,Daily,Pricing,Decent features for the price.
+RES_0316,2026-04-10 23:50:08.415055,27.0,Male,Latin America,Bachelor,,10,Mobile,Rarely,User Interface,Best app I've used this year.
+RES_0317,2026-04-17 06:50:08.415055,57.0,Male,Latin America,PhD,4.0,10,Smart Watch,Weekly,Pricing,Good experience overall.
+RES_0318,2026-04-17 07:50:08.415055,,Female,Asia-Pacific,Bachelor,3.0,0,Desktop,Monthly,Performance,Needs more updates.
+RES_0319,2026-04-16 05:50:08.415055,23.0,Female,ME-Africa,Bachelor,4.0,0,Desktop,Rarely,Pricing,Solid performance.
+RES_0320,2026-04-03 16:50:08.415055,25.0,Female,Latin America,Bachelor,4.0,3,Mobile,Rarely,Feature Set,Solid performance.
+RES_0321,2026-03-27 00:50:08.415055,40.0,Male,Asia-Pacific,Master,4.0,5,Desktop,Weekly,Pricing,Solid performance.
+RES_0322,2026-03-21 18:50:08.415055,64.0,Male,ME-Africa,Master,4.0,7,Mobile,Rarely,User Interface,Decent features for the price.
+RES_0323,2026-04-08 06:50:08.415055,43.0,Prefer not to say,Latin America,PhD,5.0,5,Desktop,Rarely,User Interface,Best app I've used this year.
+RES_0324,2026-03-28 10:50:08.415055,,Male,Latin America,PhD,4.0,8,Desktop,Weekly,Pricing,Decent features for the price.
+RES_0325,2026-03-28 20:50:08.415055,60.0,Female,North America,Master,4.0,8,Desktop,Weekly,User Interface,Decent features for the price.
+RES_0326,2026-04-11 06:50:08.415055,29.0,Male,North America,High School,,1,Mobile,Rarely,User Interface,A bit frustrated with the glitches.
+RES_0327,2026-04-03 03:50:08.416127,43.0,Female,ME-Africa,Master,2.0,9,Smart Watch,Monthly,Pricing,Expected more.
+RES_0328,2026-04-04 01:50:08.416127,30.0,Female,Latin America,Bachelor,3.0,0,Desktop,Daily,Customer Support,Some bugs but manageable.
+RES_0329,2026-04-07 04:50:08.416127,57.0,Male,Europe,Master,3.0,1,Mobile,Rarely,Customer Support,Average experience.
+RES_0330,2026-04-03 19:50:08.416127,35.0,Male,North America,Bachelor,4.0,4,Mobile,Rarely,Performance,Works well but interface could be cleaner.
+RES_0331,2026-04-08 14:50:08.416127,42.0,Female,ME-Africa,PhD,4.0,3,Desktop,Monthly,User Interface,Works well but interface could be cleaner.
+RES_0332,2026-04-01 11:50:08.416127,50.0,Female,Latin America,High School,4.0,3,Desktop,Rarely,Pricing,Solid performance.
+RES_0333,2026-04-11 16:50:08.416127,64.0,Male,Latin America,PhD,5.0,8,Smart Watch,Rarely,User Interface,Exceeded my expectations.
+RES_0334,2026-03-23 09:50:08.416127,57.0,Prefer not to say,Europe,Bachelor,5.0,10,Mobile,Daily,Feature Set,Exceeded my expectations.
+RES_0335,2026-03-31 04:50:08.416127,60.0,Male,ME-Africa,Bachelor,5.0,7,Mobile,Daily,User Interface,Exceeded my expectations.
+RES_0336,2026-03-25 08:50:08.416127,29.0,Male,Latin America,Bachelor,4.0,5,Tablet,Daily,User Interface,Solid performance.
+RES_0337,2026-04-04 02:50:08.416127,61.0,Non-Binary,North America,High School,4.0,0,Mobile,Weekly,Customer Support,Decent features for the price.
+RES_0338,2026-04-15 20:50:08.416127,53.0,Male,Europe,Master,4.0,1,Smart Watch,Weekly,Pricing,Solid performance.
+RES_0339,2026-04-08 03:50:08.416127,65.0,Female,ME-Africa,PhD,2.0,5,Tablet,Daily,User Interface,Slow performance at times.
+RES_0340,2026-03-24 02:50:08.416127,21.0,Male,Europe,PhD,4.0,10,Tablet,Daily,Customer Support,Solid performance.
+RES_0341,2026-04-16 02:50:08.416127,22.0,Male,North America,Master,5.0,1,Tablet,Weekly,Performance,Exceeded my expectations.
+RES_0342,2026-03-28 07:50:08.416127,73.0,Prefer not to say,ME-Africa,PhD,5.0,9,Desktop,Monthly,Customer Support,Best app I've used this year.
+RES_0343,2026-03-26 16:50:08.416127,54.0,Male,Europe,High School,3.0,4,Desktop,Rarely,Customer Support,Some bugs but manageable.
+RES_0344,2026-04-07 02:50:08.416127,25.0,Female,Asia-Pacific,PhD,4.0,4,Mobile,Rarely,Customer Support,Decent features for the price.
+RES_0345,2026-04-10 16:50:08.416127,59.0,Male,North America,Bachelor,5.0,5,Tablet,Daily,User Interface,Highly recommended.
+RES_0346,2026-04-06 18:50:08.416127,66.0,Male,North America,Master,2.0,5,Smart Watch,Monthly,User Interface,Expected more.
+RES_0347,2026-04-17 00:50:08.416127,45.0,Male,North America,High School,4.0,5,Desktop,Weekly,Performance,Good experience overall.
+RES_0348,2026-03-22 12:50:08.416127,48.0,Female,Asia-Pacific,Master,5.0,1,Smart Watch,Daily,Feature Set,Best app I've used this year.
+RES_0349,2026-04-09 05:50:08.416127,26.0,Male,Asia-Pacific,High School,4.0,9,Smart Watch,Monthly,Feature Set,Solid performance.
+RES_0350,2026-04-05 11:50:08.416127,,Female,Latin America,Bachelor,2.0,2,Desktop,Monthly,Feature Set,A bit frustrated with the glitches.
+RES_0351,2026-04-11 13:50:08.416127,68.0,Female,Europe,Master,4.0,5,Desktop,Monthly,Performance,Solid performance.
+RES_0352,2026-03-25 11:50:08.416127,46.0,Prefer not to say,Latin America,PhD,5.0,7,Desktop,Weekly,Feature Set,"Love the interface, very intuitive!"
+RES_0353,2026-04-03 17:50:08.416127,31.0,Male,Europe,High School,4.0,10,Desktop,Weekly,Feature Set,Good experience overall.
+RES_0354,2026-04-13 09:50:08.416127,57.0,Female,Asia-Pacific,Master,3.0,0,Tablet,Rarely,Customer Support,Needs more updates.
+RES_0355,2026-04-07 15:50:08.416127,58.0,Female,Asia-Pacific,PhD,4.0,0,Tablet,Rarely,User Interface,Decent features for the price.
+RES_0356,2026-04-10 14:50:08.416127,39.0,Female,Latin America,Master,4.0,10,Tablet,Monthly,User Interface,Good experience overall.
+RES_0357,2026-04-02 21:50:08.416772,28.0,Female,ME-Africa,Master,4.0,1,Tablet,Monthly,Customer Support,Decent features for the price.
+RES_0358,2026-04-15 18:50:08.416772,40.0,Female,Latin America,Master,5.0,10,Mobile,Weekly,Customer Support,"Love the interface, very intuitive!"
+RES_0359,2026-04-14 04:50:08.416772,18.0,Female,Europe,High School,2.0,5,Tablet,Rarely,Customer Support,Interface is confusing.
+RES_0360,2026-04-12 07:50:08.416772,63.0,Male,Latin America,PhD,5.0,8,Desktop,Monthly,User Interface,Highly recommended.
+RES_0361,2026-04-07 22:50:08.416772,54.0,Male,North America,Bachelor,1.0,3,Smart Watch,Rarely,Feature Set,Customer support was unhelpful.
+RES_0362,2026-03-29 03:50:08.416772,38.0,Non-Binary,Europe,High School,4.0,2,Tablet,Rarely,Customer Support,Decent features for the price.
+RES_0363,2026-04-03 16:50:08.416772,43.0,Female,Europe,High School,1.0,7,Mobile,Monthly,Performance,Waste of money.
+RES_0364,2026-03-26 10:50:08.416772,63.0,Female,ME-Africa,High School,4.0,10,Desktop,Weekly,Customer Support,Good experience overall.
+RES_0365,2026-04-16 19:50:08.416772,53.0,Female,Asia-Pacific,Bachelor,4.0,9,Smart Watch,Monthly,Pricing,Solid performance.
+RES_0366,2026-04-14 04:50:08.416772,71.0,Male,Europe,PhD,4.0,8,Smart Watch,Monthly,Customer Support,Decent features for the price.
+RES_0367,2026-03-22 11:50:08.416772,40.0,Male,Asia-Pacific,PhD,3.0,10,Tablet,Rarely,User Interface,"It's okay, does what it needs to do."
+RES_0368,2026-03-29 16:50:08.416772,74.0,Female,Latin America,PhD,4.0,4,Smart Watch,Monthly,Customer Support,Works well but interface could be cleaner.
+RES_0369,2026-03-24 13:50:08.416772,18.0,Male,North America,Master,1.0,8,Tablet,Weekly,Pricing,Completely broken.
+RES_0370,2026-03-25 04:50:08.416772,71.0,Male,ME-Africa,Master,5.0,1,Tablet,Monthly,Performance,Highly recommended.
+RES_0371,2026-04-13 20:50:08.416772,72.0,Female,Asia-Pacific,Master,5.0,2,Desktop,Weekly,Feature Set,Best app I've used this year.
+RES_0372,2026-04-07 10:50:08.416772,68.0,Male,Europe,Bachelor,3.0,6,Desktop,Weekly,Customer Support,Average experience.
+RES_0373,2026-04-02 03:50:08.416772,57.0,Female,Asia-Pacific,Master,4.0,6,Mobile,Rarely,Pricing,Solid performance.
+RES_0374,2026-03-23 15:50:08.416772,32.0,Male,Europe,Bachelor,4.0,5,Desktop,Daily,Pricing,Good experience overall.
+RES_0375,2026-03-22 14:50:08.416772,,Female,Asia-Pacific,PhD,1.0,5,Desktop,Daily,Performance,Customer support was unhelpful.
+RES_0376,2026-04-13 22:50:08.416772,64.0,Male,Europe,Master,4.0,1,Tablet,Rarely,User Interface,Decent features for the price.
+RES_0377,2026-04-17 10:50:08.416772,26.0,Female,Latin America,Master,5.0,9,Desktop,Monthly,Customer Support,"Love the interface, very intuitive!"
+RES_0378,2026-03-23 06:50:08.416772,70.0,Male,Europe,High School,4.0,5,Tablet,Rarely,Pricing,Good experience overall.
+RES_0379,2026-03-25 23:50:08.416772,26.0,Male,Europe,Bachelor,2.0,3,Tablet,Weekly,Performance,A bit frustrated with the glitches.
+RES_0380,2026-04-19 17:50:08.416772,27.0,Male,North America,PhD,5.0,2,Desktop,Daily,Feature Set,Exceeded my expectations.
+RES_0381,2026-03-30 17:50:08.416772,69.0,Female,Europe,High School,4.0,10,Mobile,Rarely,Pricing,Solid performance.
+RES_0382,2026-03-25 11:50:08.416772,74.0,Female,North America,High School,5.0,1,Mobile,Monthly,Performance,Highly recommended.
+RES_0383,2026-04-07 10:50:08.416772,70.0,Male,ME-Africa,PhD,4.0,0,Smart Watch,Rarely,User Interface,Solid performance.
+RES_0384,2026-03-22 08:50:08.416772,43.0,Female,North America,High School,4.0,10,Smart Watch,Daily,User Interface,Works well but interface could be cleaner.
+RES_0385,2026-03-30 07:50:08.416772,58.0,Female,Latin America,Bachelor,2.0,10,Desktop,Rarely,Pricing,Expected more.
+RES_0386,2026-03-29 02:50:08.416772,52.0,Female,North America,Bachelor,3.0,4,Mobile,Rarely,Pricing,Some bugs but manageable.
+RES_0387,2026-04-09 18:50:08.416772,69.0,Male,ME-Africa,Master,5.0,1,Tablet,Daily,Customer Support,"Love the interface, very intuitive!"
+RES_0388,2026-04-16 20:50:08.416772,42.0,Female,Latin America,High School,3.0,1,Smart Watch,Weekly,Performance,Average experience.
+RES_0389,2026-04-01 03:50:08.416772,43.0,Male,Asia-Pacific,Master,5.0,6,Tablet,Weekly,Pricing,"Love the interface, very intuitive!"
+RES_0390,2026-03-26 05:50:08.416772,28.0,Male,Asia-Pacific,High School,4.0,7,Smart Watch,Daily,Customer Support,Decent features for the price.
+RES_0391,2026-04-05 14:50:08.416772,,Prefer not to say,North America,Bachelor,2.0,9,Desktop,Rarely,Customer Support,A bit frustrated with the glitches.
+RES_0392,2026-04-03 09:50:08.416772,19.0,Male,North America,Bachelor,2.0,7,Mobile,Daily,Pricing,Slow performance at times.
+RES_0393,2026-04-05 22:50:08.416772,24.0,Female,ME-Africa,Bachelor,3.0,3,Smart Watch,Weekly,User Interface,Some bugs but manageable.
+RES_0394,2026-03-30 01:50:08.416772,35.0,Female,ME-Africa,High School,5.0,0,Mobile,Monthly,Performance,Highly recommended.
+RES_0395,2026-03-29 20:50:08.416772,44.0,Female,Europe,Bachelor,4.0,10,Tablet,Rarely,Performance,Good experience overall.
+RES_0396,2026-04-04 00:50:08.416772,51.0,Female,ME-Africa,High School,4.0,6,Desktop,Weekly,User Interface,Decent features for the price.
+RES_0397,2026-03-26 12:50:08.416772,44.0,Male,Europe,Master,3.0,0,Mobile,Rarely,Pricing,"It's okay, does what it needs to do."
+RES_0398,2026-04-08 13:50:08.416772,34.0,Male,Latin America,High School,2.0,10,Desktop,Daily,Performance,Interface is confusing.
+RES_0399,2026-04-04 15:50:08.416772,60.0,Female,North America,Master,4.0,3,Mobile,Monthly,Pricing,Solid performance.
+RES_0400,2026-04-14 11:50:08.416772,61.0,Male,Latin America,High School,2.0,7,Tablet,Daily,Pricing,Expected more.
+RES_0401,2026-03-27 02:50:08.416772,68.0,Male,ME-Africa,Master,5.0,1,Tablet,Monthly,Customer Support,Best app I've used this year.
+RES_0402,2026-04-12 19:50:08.416772,71.0,Male,Latin America,Bachelor,4.0,5,Desktop,Rarely,User Interface,Works well but interface could be cleaner.
+RES_0403,2026-03-25 15:50:08.416772,41.0,Male,Latin America,Master,4.0,5,Tablet,Rarely,Pricing,Decent features for the price.
+RES_0404,2026-03-25 05:50:08.416772,42.0,Male,Latin America,Bachelor,4.0,8,Smart Watch,Daily,Feature Set,Decent features for the price.
+RES_0405,2026-03-23 18:50:08.416772,24.0,Male,ME-Africa,Bachelor,4.0,4,Mobile,Monthly,User Interface,Works well but interface could be cleaner.
+RES_0406,2026-04-11 19:50:08.416772,69.0,Female,Latin America,Master,5.0,9,Tablet,Monthly,Performance,"Love the interface, very intuitive!"
+RES_0407,2026-03-24 01:50:08.416772,23.0,Female,Europe,High School,,3,Smart Watch,Rarely,Customer Support,Works well but interface could be cleaner.
+RES_0408,2026-04-03 14:50:08.416772,70.0,Female,ME-Africa,High School,2.0,4,Desktop,Daily,Performance,Expected more.
+RES_0409,2026-04-19 02:50:08.416772,41.0,Male,Latin America,PhD,4.0,9,Smart Watch,Monthly,Performance,Works well but interface could be cleaner.
+RES_0410,2026-03-31 10:50:08.416772,50.0,Male,ME-Africa,High School,3.0,10,Desktop,Rarely,User Interface,"It's okay, does what it needs to do."
+RES_0411,2026-03-23 07:50:08.416772,66.0,Male,Asia-Pacific,PhD,1.0,4,Desktop,Weekly,Performance,Completely broken.
+RES_0412,2026-03-22 10:50:08.417881,46.0,Female,Europe,High School,5.0,7,Mobile,Daily,Pricing,Exceeded my expectations.
+RES_0413,2026-04-06 20:50:08.417881,60.0,Female,Latin America,High School,5.0,9,Mobile,Weekly,Performance,Best app I've used this year.
+RES_0414,2026-03-22 17:50:08.417881,39.0,Male,Asia-Pacific,Bachelor,5.0,7,Smart Watch,Daily,Customer Support,"Love the interface, very intuitive!"
+RES_0415,2026-04-02 04:50:08.417881,43.0,Non-Binary,Asia-Pacific,PhD,4.0,1,Mobile,Rarely,Customer Support,Solid performance.
+RES_0416,2026-04-15 08:50:08.417881,45.0,Male,ME-Africa,High School,4.0,6,Mobile,Monthly,Feature Set,Works well but interface could be cleaner.
+RES_0417,2026-03-26 21:50:08.417881,67.0,Female,Asia-Pacific,PhD,3.0,7,Mobile,Monthly,Customer Support,Average experience.
+RES_0418,2026-04-09 23:50:08.417881,38.0,Female,Europe,Bachelor,3.0,10,Smart Watch,Monthly,Performance,"It's okay, does what it needs to do."
+RES_0419,2026-03-21 05:50:08.417881,66.0,Female,Europe,Bachelor,5.0,5,Tablet,Daily,Customer Support,Highly recommended.
+RES_0420,2026-03-24 10:50:08.417881,24.0,Female,North America,PhD,4.0,4,Mobile,Rarely,User Interface,Works well but interface could be cleaner.
+RES_0421,2026-04-15 00:50:08.417881,34.0,Female,Europe,Bachelor,5.0,10,Mobile,Weekly,Customer Support,Highly recommended.
+RES_0422,2026-03-27 22:50:08.417881,37.0,Male,Asia-Pacific,Master,4.0,8,Smart Watch,Rarely,Pricing,Decent features for the price.
+RES_0423,2026-03-29 22:50:08.417881,58.0,Female,Europe,Master,3.0,2,Tablet,Weekly,User Interface,Some bugs but manageable.
+RES_0424,2026-04-02 08:50:08.417881,66.0,Male,ME-Africa,Bachelor,4.0,9,Mobile,Daily,Feature Set,Decent features for the price.
+RES_0425,2026-04-03 12:50:08.417881,37.0,Female,North America,Master,4.0,3,Desktop,Daily,Pricing,Good experience overall.
+RES_0426,2026-03-30 01:50:08.417881,71.0,Female,Asia-Pacific,High School,3.0,8,Smart Watch,Weekly,Performance,Some bugs but manageable.
+RES_0427,2026-03-24 06:50:08.417881,39.0,Female,North America,PhD,5.0,5,Mobile,Weekly,Performance,Exceeded my expectations.
+RES_0428,2026-04-07 22:50:08.417881,45.0,Female,Asia-Pacific,High School,4.0,7,Mobile,Weekly,Performance,Solid performance.
+RES_0429,2026-04-18 14:50:08.417881,57.0,Female,ME-Africa,PhD,3.0,6,Desktop,Rarely,Pricing,Average experience.
+RES_0430,2026-04-17 22:50:08.417881,66.0,Female,North America,Bachelor,4.0,10,Desktop,Weekly,Pricing,Works well but interface could be cleaner.
+RES_0431,2026-03-30 07:50:08.417881,24.0,Female,Latin America,High School,5.0,1,Smart Watch,Daily,Pricing,Highly recommended.
+RES_0432,2026-03-28 17:50:08.417881,18.0,Male,Asia-Pacific,Bachelor,3.0,2,Smart Watch,Daily,User Interface,Some bugs but manageable.
+RES_0433,2026-03-23 06:50:08.417881,49.0,Male,Latin America,Bachelor,5.0,0,Desktop,Monthly,User Interface,Exceeded my expectations.
+RES_0434,2026-04-15 18:50:08.417881,30.0,Male,North America,PhD,3.0,8,Smart Watch,Weekly,Performance,"It's okay, does what it needs to do."
+RES_0435,2026-04-14 20:50:08.417881,47.0,Male,Latin America,PhD,5.0,6,Desktop,Rarely,Customer Support,Highly recommended.
+RES_0436,2026-03-30 00:50:08.417881,40.0,Female,Latin America,PhD,4.0,0,Mobile,Rarely,Performance,Good experience overall.
+RES_0437,2026-04-15 02:50:08.417881,,Male,North America,High School,3.0,2,Desktop,Rarely,Feature Set,Needs more updates.
+RES_0438,2026-04-15 13:50:08.417881,73.0,Prefer not to say,ME-Africa,Master,3.0,3,Desktop,Monthly,User Interface,Needs more updates.
+RES_0439,2026-04-10 04:50:08.417881,36.0,Male,Latin America,PhD,5.0,3,Tablet,Daily,Pricing,Best app I've used this year.
+RES_0440,2026-04-03 02:50:08.417881,49.0,Male,Latin America,PhD,4.0,4,Desktop,Rarely,User Interface,Works well but interface could be cleaner.
+RES_0441,2026-04-06 14:50:08.417881,47.0,Female,ME-Africa,High School,4.0,2,Desktop,Daily,Pricing,Good experience overall.
+RES_0442,2026-04-06 22:50:08.417881,46.0,Female,Latin America,PhD,2.0,2,Tablet,Monthly,Feature Set,Expected more.
+RES_0443,2026-04-01 10:50:08.417881,66.0,Female,Latin America,High School,5.0,0,Smart Watch,Weekly,Feature Set,Exceeded my expectations.
+RES_0444,2026-04-07 19:50:08.417881,62.0,Female,Latin America,Bachelor,4.0,6,Tablet,Weekly,User Interface,Works well but interface could be cleaner.
+RES_0445,2026-03-21 22:50:08.417881,46.0,Female,Europe,PhD,5.0,10,Mobile,Weekly,Pricing,Exceeded my expectations.
+RES_0446,2026-04-03 15:50:08.417881,47.0,Male,ME-Africa,PhD,2.0,9,Tablet,Rarely,Feature Set,A bit frustrated with the glitches.
+RES_0447,2026-04-18 15:50:08.417881,33.0,Prefer not to say,Latin America,Bachelor,4.0,0,Mobile,Weekly,Performance,Works well but interface could be cleaner.
+RES_0448,2026-04-13 21:50:08.417881,57.0,Prefer not to say,ME-Africa,Bachelor,4.0,1,Smart Watch,Rarely,Performance,Works well but interface could be cleaner.
+RES_0449,2026-03-29 01:50:08.417881,36.0,Female,Asia-Pacific,Bachelor,4.0,3,Tablet,Monthly,Pricing,Decent features for the price.
+RES_0450,2026-04-17 05:50:08.418904,35.0,Male,Asia-Pacific,PhD,4.0,3,Tablet,Monthly,User Interface,Good experience overall.
+RES_0451,2026-04-08 22:50:08.418904,18.0,Female,Latin America,Master,1.0,4,Smart Watch,Rarely,Feature Set,Customer support was unhelpful.
+RES_0452,2026-03-29 11:50:08.418904,31.0,Male,ME-Africa,Master,4.0,10,Mobile,Daily,User Interface,Works well but interface could be cleaner.
+RES_0453,2026-04-15 06:50:08.418904,68.0,Male,ME-Africa,Master,4.0,1,Tablet,Weekly,Performance,Good experience overall.
+RES_0454,2026-04-04 08:50:08.418904,64.0,Male,ME-Africa,PhD,2.0,3,Mobile,Weekly,Feature Set,Interface is confusing.
+RES_0455,2026-03-28 08:50:08.418904,67.0,Female,Europe,Bachelor,4.0,0,Tablet,Weekly,User Interface,Good experience overall.
+RES_0456,2026-04-15 02:50:08.418904,19.0,Female,Asia-Pacific,PhD,4.0,1,Desktop,Rarely,Customer Support,Works well but interface could be cleaner.
+RES_0457,2026-04-06 21:50:08.418904,71.0,Female,ME-Africa,Bachelor,1.0,0,Tablet,Monthly,Pricing,Completely broken.
+RES_0458,2026-04-09 04:50:08.418904,45.0,Female,ME-Africa,PhD,5.0,9,Smart Watch,Weekly,Pricing,Exceeded my expectations.
+RES_0459,2026-04-13 17:50:08.418904,66.0,Male,Europe,PhD,5.0,9,Smart Watch,Monthly,Customer Support,Highly recommended.
+RES_0460,2026-03-23 21:50:08.418904,67.0,Male,Europe,Bachelor,4.0,3,Mobile,Weekly,Performance,Solid performance.
+RES_0461,2026-04-14 05:50:08.418904,47.0,Male,ME-Africa,Master,2.0,3,Tablet,Weekly,Feature Set,Interface is confusing.
+RES_0462,2026-04-18 05:50:08.418904,55.0,Prefer not to say,North America,Bachelor,5.0,6,Mobile,Rarely,Pricing,Best app I've used this year.
+RES_0463,2026-03-21 08:50:08.418904,68.0,Male,ME-Africa,High School,4.0,9,Mobile,Daily,Customer Support,Solid performance.
+RES_0464,2026-03-24 04:50:08.418904,21.0,Female,ME-Africa,High School,3.0,10,Desktop,Rarely,Customer Support,Needs more updates.
+RES_0465,2026-04-18 03:50:08.418904,18.0,Female,Europe,Bachelor,4.0,10,Desktop,Weekly,Performance,Solid performance.
+RES_0466,2026-03-26 17:50:08.418904,25.0,Male,Europe,PhD,4.0,8,Smart Watch,Weekly,Performance,Good experience overall.
+RES_0467,2026-04-18 23:50:08.418904,46.0,Female,ME-Africa,High School,4.0,8,Mobile,Daily,User Interface,Good experience overall.
+RES_0468,2026-04-05 00:50:08.418904,72.0,Female,ME-Africa,High School,4.0,4,Smart Watch,Monthly,Pricing,Good experience overall.
+RES_0469,2026-04-10 04:50:08.418904,56.0,Female,ME-Africa,PhD,4.0,9,Tablet,Monthly,User Interface,Solid performance.
+RES_0470,2026-04-03 18:50:08.418904,20.0,Non-Binary,Europe,PhD,5.0,0,Mobile,Weekly,Customer Support,Exceeded my expectations.
+RES_0471,2026-03-22 19:50:08.418904,49.0,Male,ME-Africa,Master,4.0,0,Mobile,Monthly,Feature Set,Solid performance.
+RES_0472,2026-04-09 23:50:08.418904,27.0,Male,ME-Africa,PhD,4.0,5,Tablet,Weekly,Feature Set,Good experience overall.
+RES_0473,2026-04-03 13:50:08.418904,27.0,Female,Latin America,Bachelor,5.0,1,Tablet,Daily,Performance,Highly recommended.
+RES_0474,2026-04-03 03:50:08.418904,36.0,Non-Binary,North America,Bachelor,4.0,7,Smart Watch,Daily,Feature Set,Works well but interface could be cleaner.
+RES_0475,2026-03-27 18:50:08.418904,63.0,Male,Asia-Pacific,Master,4.0,8,Smart Watch,Weekly,Feature Set,Solid performance.
+RES_0476,2026-04-18 17:50:08.418904,51.0,Female,North America,High School,4.0,3,Tablet,Daily,Feature Set,Decent features for the price.
+RES_0477,2026-03-30 21:50:08.418904,50.0,Female,Latin America,High School,4.0,4,Smart Watch,Rarely,Customer Support,Works well but interface could be cleaner.
+RES_0478,2026-04-07 12:50:08.418904,40.0,Female,Asia-Pacific,PhD,5.0,10,Tablet,Rarely,Feature Set,Best app I've used this year.
+RES_0479,2026-04-09 07:50:08.418904,72.0,Male,ME-Africa,Bachelor,4.0,7,Mobile,Daily,Feature Set,Works well but interface could be cleaner.
+RES_0480,2026-04-09 04:50:08.418904,45.0,Female,Latin America,High School,5.0,2,Mobile,Weekly,Feature Set,Highly recommended.
+RES_0481,2026-04-05 00:50:08.418904,49.0,Non-Binary,ME-Africa,Master,2.0,4,Desktop,Weekly,User Interface,Expected more.
+RES_0482,2026-03-28 07:50:08.418904,67.0,Male,Europe,Master,,2,Mobile,Daily,Customer Support,Terrible experience.
+RES_0483,2026-04-09 01:50:08.418904,24.0,Male,Latin America,Bachelor,4.0,9,Tablet,Monthly,Performance,Decent features for the price.
+RES_0484,2026-04-04 15:50:08.418904,46.0,Prefer not to say,Europe,Master,3.0,2,Smart Watch,Rarely,User Interface,Needs more updates.
+RES_0485,2026-04-16 15:50:08.418904,25.0,Male,Latin America,Master,3.0,2,Desktop,Monthly,Pricing,Needs more updates.
+RES_0486,2026-04-15 23:50:08.418904,18.0,Female,Latin America,Bachelor,3.0,6,Smart Watch,Weekly,Customer Support,Average experience.
+RES_0487,2026-03-26 20:50:08.418904,74.0,Female,Europe,PhD,3.0,6,Tablet,Weekly,Customer Support,Some bugs but manageable.
+RES_0488,2026-04-17 05:50:08.418904,72.0,Male,Asia-Pacific,PhD,1.0,6,Mobile,Monthly,Pricing,Terrible experience.
+RES_0489,2026-03-22 04:50:08.418904,20.0,Female,North America,Master,5.0,9,Desktop,Daily,Pricing,Exceeded my expectations.
+RES_0490,2026-04-01 02:50:08.418904,41.0,Male,ME-Africa,PhD,3.0,7,Tablet,Monthly,Pricing,Some bugs but manageable.
+RES_0491,2026-04-15 05:50:08.418904,40.0,Female,Latin America,PhD,4.0,4,Desktop,Monthly,Performance,Decent features for the price.
+RES_0492,2026-03-23 13:50:08.418904,25.0,Male,ME-Africa,Master,5.0,4,Desktop,Rarely,Feature Set,"Love the interface, very intuitive!"
+RES_0493,2026-03-22 01:50:08.418904,71.0,Female,Europe,PhD,5.0,3,Mobile,Rarely,Customer Support,Exceeded my expectations.
+RES_0494,2026-03-30 17:50:08.418904,74.0,Male,ME-Africa,Master,1.0,6,Tablet,Monthly,Feature Set,Completely broken.
+RES_0495,2026-04-19 18:50:08.419887,64.0,Male,Europe,High School,5.0,9,Smart Watch,Monthly,Feature Set,"Love the interface, very intuitive!"
+RES_0496,2026-04-11 11:50:08.419887,54.0,Prefer not to say,ME-Africa,Bachelor,4.0,3,Desktop,Weekly,Pricing,Decent features for the price.
+RES_0497,2026-03-25 09:50:08.419887,20.0,Male,North America,Bachelor,4.0,1,Desktop,Rarely,Performance,Solid performance.
+RES_0498,2026-04-18 06:50:08.419887,,Female,North America,PhD,4.0,3,Smart Watch,Rarely,User Interface,Works well but interface could be cleaner.
+RES_0499,2026-04-06 10:50:08.419887,50.0,Male,North America,PhD,5.0,7,Tablet,Weekly,Performance,Exceeded my expectations.
+RES_0500,2026-03-24 14:50:08.419887,,Female,North America,PhD,3.0,8,Desktop,Daily,Feature Set,Average experience.
