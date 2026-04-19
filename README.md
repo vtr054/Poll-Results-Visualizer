@@ -116,8 +116,3 @@ For your GitHub repo, keep the following screenshots ready:
 - **Multi-tenant Support**: Allow users to upload their own CSV files directly via the dashboard.
 
 ---
-
-## 📄 License
-This project is open-source and available under the MIT License.
-
-Developed by **[Your Name]** | [Your LinkedIn Link]
